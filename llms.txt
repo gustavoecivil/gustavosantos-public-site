@@ -1,0 +1,68 @@
+# Gustavo Santos
+
+> Consultor em Estratégia de Dados, CRM, Analytics e IA. Belo Horizonte, MG, Brasil. Engenheiro Civil com registro ativo no CREA-MG e fundador da Gustavo Santos Analytics (GSA).
+
+Consultor em Dados, Business Intelligence, CRM, Analytics e Inteligência Artificial, com formação em Comunicação Social — Relações Públicas, pós-graduação em Marketing pela FGV e graduação em Engenharia Civil. Experiência em áreas comerciais, tecnologia e Data Center, engenharia, projetos e consultoria; desde 2023 atua pela Gustavo Santos Analytics.
+
+Desenvolvo diagnósticos de negócio, integração e modelagem de dados, dashboards e automações. No contexto dos projetos junto ao Grupo BMG, desenvolvi painéis de BI para o Coimbra SAF. Atualmente participo da estruturação comercial e do desenvolvimento de uma plataforma própria de CRM para uma empresa de eletrofitness, envolvendo gestão de contatos e leads, funil de vendas e indicadores; automações e integrações com IA em planejamento. Trabalho com Power BI, DAX, Power Query, SQL, Python, ETL e governança de dados, com foco em decisões e resultados mensuráveis.
+
+## Contato e perfis
+- Site: https://www.gustavosantos.net.br
+- Currículo sempre atualizado: https://www.gustavosantos.net.br/curriculo/
+- Faixas salariais de mercado (dados, IA, planejamento): https://www.gustavosantos.net.br/mercado/
+- LinkedIn: https://www.linkedin.com/in/culturadatadriven
+- E-mail: contato@gustavosantos.net.br
+- WhatsApp: +55 31 99198-8289
+- Cartão digital: https://gustavosantos-card.netlify.app
+- Cultura Data-Driven (tese e blog): https://culturadatadriven.com e https://culturadatadriven.com/blog
+- GSA (consultoria): https://culturadatadriven.com/gsa
+
+## Competências
+- Dados e BI: Estratégia de Dados, Business Intelligence, Power BI, DAX, Power Query, SQL, SQL Server, PostgreSQL, Python, ETL, Modelagem de Dados, Governança de Dados, KPIs, Dashboards Executivos, Storytelling com Dados, Análise Estatística, Precificação Hedônica, Excel Avançado
+- CRM, Marketing e Negócios: CRM, Gestão de Relacionamento com Clientes, Inteligência Comercial, Funil de Vendas, Gestão de Leads, Indicadores Comerciais, Marketing Analítico, Segmentação de Clientes, Jornada do Cliente, Planejamento de Automações
+- IA e automação: Inteligência Artificial Aplicada, Agentes de IA, RAG, Embeddings, Blockchain aplicada a autorizações e verificações de transações, Machine Learning, Automação de Processos
+- Gestão: Consultoria, Diagnóstico de Processos, Planejamento Estratégico, PMO, Gestão de Projetos, Modelagem Econômico-Financeira, PPPs e Concessões, Gestão de Contratos
+- Engenharia: Engenharia Civil (CREA-MG), Planejamento e Controle de Obras, Fiscalização, Medições, Orçamento, MS Project, Saneamento, Gestão e Licenciamento Ambiental
+
+## Clientes atuais da GSA
+- Grupo BMG: Projetos de dashboards, ETL, automação e indicadores desde 2023, incluindo painéis de Business Intelligence para o Coimbra SAF no contexto do trabalho com o Grupo BMG.
+- Patrimar: Precificação de imóveis levada da planilha para banco de dados, com modelos hedônicos e Machine Learning.
+- Grupo Maurício Toledo: Planejamento, fiscalização e medições para mineração, pedreiras e fazendas, desde 2025.
+- Z3: Estruturação da operação comercial e desenvolvimento de plataforma digital de CRM para eletrofitness: contatos, leads, funil de vendas e indicadores; automações em planejamento.
+
+## Trajetória (mais recente primeiro)
+- 2026-08 · SQL Server Expert · IA no SQL Server 2025: SQL Server 2025 e IA aplicada. 20 horas.
+- 2026-08 · Hashtag Treinamentos · Power BI Impressionador: Modelagem, DAX, Power Query e dashboards. 118 horas.
+- 2026 · Cliente GSA · Patrimar · Consultoria em precificação: Precificação de imóveis levada da planilha para banco de dados, com ciência de dados, modelos hedônicos e Machine Learning.
+- 2026-01 · Projeto SINAL · Vale Desenvolver 2026 · Dados e Machine Learning aplicado: Machine Learning com mais de 37 milhões de eventos de telemetria para priorizar caminhões em risco.
+- 2026-01 · Cliente GSA · Z3 · Gestão orientada por dados: Bases operacionais, indicadores e DRE gerencial para gestão orientada por dados.
+- 2026-01 a em andamento · FNAT · Pós-graduação em Data Analytics e IA Aplicada a Negócios: Em andamento.
+- 2025-02 · Cliente GSA · Grupo Maurício Toledo · Engenharia, planejamento e controle: Planejamento, fiscalização e medições de obras para mineração, pedreiras e fazendas.
+- 2023-02 · Cliente GSA · Grupo BMG · BI, dados e automação: Dashboards, ETL, automação e indicadores para doze áreas corporativas do grupo.
+- 2023-02 a atual · Gustavo Santos Analytics (GSA) · Fundador · Consultor em Estratégia de Dados, Analytics e IA: Fundação da GSA: consultoria em estratégia de dados, BI, ciência de dados e IA aplicada.
+- 2022-03 a 2022-11 · Pool de SPEs de PPPs e Concessões · Analista de Engenharia, Dados para PPPs e Concessões: Modelos de projeção, cenários e bases históricas para PPPs e concessões.
+- 2017-03 a 2018-12 · IETEC · Pós-graduação em Engenharia de Planejamento: EAP, cronogramas, caminho crítico, recursos, custos e linha de base.
+- 2015-01 a 2021-09 · CRONO Engenharia e Consultoria · Engenheiro Civil, Dados Ambientais: Fluxo de dados ambientais para mineração e metalurgia: estatística, Python, automação e Power BI.
+- 2013-07 a 2014-12 · CREA-MG · cooperação com a FUNASA · Engenheiro Civil: Capacitação de municípios mineiros de até 50 mil habitantes para os Planos Municipais de Saneamento, com metas e indicadores.
+- 2012-09 a 2013-07 · Tetra Tech · Projeto Minas-Rio · Engenheiro Civil: Fiscalização de obras externas do Projeto Minas-Rio: acessos e adutora de água.
+- 2011-10 a 2012-08 · Anglo American · Projeto Minas-Rio · Estagiário de Engenharia Civil, Desenvolvimento Sustentável e PMO: PMO do Projeto Minas-Rio em conjunto com a McKinsey e controle de condicionantes ambientais.
+- 2011-03 a 2011-09 · Infrater Engenharia · Estagiário de Engenharia Civil: Planejamento e fiscalização de terraplenagem e pavimentação.
+- 2010-09 a 2011-02 · DNIT · Estagiário de Engenharia Civil: Conferência de medições quantitativas e financeiras e custos rodoviários no SICRO.
+- 2009-08 a 2010-08 · F2 Incorporadora · Estagiário de Engenharia Civil: Planejamento, administração e fiscalização de obra residencial.
+- 2009-01 a 2009-07 · Carvalho e Queiroz Engenharia · Estagiário de Engenharia Civil: Planejamento e fiscalização em obras de pavimentação.
+- 2008-08 · IMEC / CREA-MG · Metodologia de Orçamentos: Engenharia de custos, BDI e formação de preços. 16 horas.
+- 2008-07 a 2008-12 · Strato Construções · Estagiário de Engenharia Civil: Implantação do ERP de planejamento Versato/PINI, orçamento e compras.
+- 2007-08 a 2012-07 · Faculdades Kennedy · Engenharia Civil: Colação em agosto de 2012, em paralelo ao Banco Rural e aos estágios.
+- 2007-01 a 2008-05 · Thematika Comunicação · Coordenador de Marketing: Planejamento de marketing, captação de patrocínios e contratos com produtoras, em paralelo ao banco.
+- 2003-12 a 2012-04 · Banco Rural · Técnico de Operações, CPD/Data Center: Mais de oito anos monitorando links de comunicação, rede e teleprocessamento de dados no Data Center, enquanto cursava Engenharia.
+- 2003-07 a 2003-12 · Banco Rural · Técnico de Controle de Qualidade, CPD/Data Center: Organização e métodos, planilhas gerenciais e controle de qualidade na área de tecnologia.
+- 2001-07 a 2003-07 · Centauro Formulários · Consultor de Negócios: Vendas B2B de impressos de segurança e formulários com dados variáveis; contratos com varejo e indústria.
+- 2000-11 a 2002-04 · FGV · Pós-graduação em Marketing: 360 horas-aula.
+- 2000-05 a 2001-06 · Central de Franchising · Consultor de Franchising / Negócios: Supervisão de franquias, merchandising e prospecção de novos franqueados.
+- 1999-11 a 2000-02 · C&A · Analista de Crédito: Prospecção de produtos financeiros e atendimento ao cliente.
+- 1999-05 a 1999-07 · Brahma · Apoio Comercial: Ponte entre gerência e equipe de vendas, com planilhas financeiras e planejamento de vendas no varejo.
+- 1997-06 a 1999-04 · Telemar · Estagiário: Atendimento, prospecção e marketing direto, com planilhas de controle da operação comercial.
+- 1996-02 a 2000-07 · Newton Paiva · Comunicação Social, Relações Públicas: Projeto experimental citado como premiado nos currículos da época.
+- 1994-07 · Curso de Microinformática · MS-DOS, Word, Quattro Pro e FoxBase: Um banco de dados já no primeiro curso. 75 horas.
+
+Atualizado em 2026-10-27.
