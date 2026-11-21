@@ -1,0 +1,34 @@
+/* Cultura Data-Driven — Mapa autoral de competências 2026 */
+.competencias-bloco{background:#F7F5EE;color:#1F1F1F}
+.competencias-bloco .eyebrow{color:#815b2c}
+.competencias-bloco .display{color:#1F1F1F}
+.competencias-bloco .lead{color:#45423C}
+.competencias-figura{margin:36px 0 0;background:#fff;border:1px solid #D3D0C9;border-radius:12px;overflow:hidden;box-shadow:0 14px 42px rgba(15,15,15,.05)}
+.competencias-figura img{display:block;width:100%;height:auto;aspect-ratio:3/2}
+.competencias-figura figcaption{padding:14px 20px 20px;color:#67635B;font-size:.87rem;line-height:1.5;border-top:1px solid #e6e1d7}
+.competencias-acoes{display:flex;flex-wrap:wrap;gap:12px;margin-top:23px;align-items:center}
+.competencias-link{display:inline-flex;padding:12px 18px;border-radius:8px;border:1px solid #1F1F1F;background:#1F1F1F;color:#fff!important;text-decoration:none;font-weight:650;line-height:1.4}
+.competencias-link:hover,.competencias-link:focus-visible{background:#4b443b;outline-offset:3px}
+.competencias-link--outline{background:transparent;color:#1F1F1F!important;border-color:#B88B4F}
+.competencias-link--outline:hover{background:#eae1d2}
+.competencias-aviso{max-width:70ch;margin-top:15px;color:#5b554d;font-size:.95rem;line-height:1.6}
+.competencias-pagina{background:#F7F5EE;color:#1F1F1F;min-height:100vh;font-family:"Inter Variable",Inter,system-ui,Arial,sans-serif}
+.competencias-pagina *{box-sizing:border-box}
+.competencias-pagina a{color:inherit}
+.competencias-pagina header.topo{background:#0B0B0B;color:#F7F5EE;padding:24px max(20px,calc((100vw - 1180px)/2))}
+.competencias-pagina .topo-inner{display:flex;justify-content:space-between;gap:16px;align-items:center;flex-wrap:wrap}
+.competencias-pagina .topo strong{font-weight:750;letter-spacing:.015em}
+.competencias-pagina .topo span{color:#B88B4F}
+.competencias-pagina .topo a{color:#F7F5EE;text-underline-offset:3px;font-size:.96rem}
+.competencias-pagina main{max-width:1180px;margin:0 auto;padding:58px 20px 85px}
+.competencias-pagina .sobre{color:#8b642f;text-transform:uppercase;font-size:.78rem;letter-spacing:.15em;font-weight:800;margin:0 0 16px}
+.competencias-pagina h1{font-size:clamp(2.1rem,5vw,4rem);letter-spacing:-.04em;line-height:1.06;margin:0 0 20px}
+.competencias-pagina .subtitulo{max-width:65ch;font-size:clamp(1.1rem,2vw,1.35rem);line-height:1.5;color:#45423C;margin:0}
+.competencias-pagina .corpo{display:grid;grid-template-columns:1fr 1fr;gap:28px 58px;margin-top:50px}
+.competencias-pagina .corpo h2{font-size:1.35rem;margin:0 0 12px;letter-spacing:-.02em}
+.competencias-pagina .corpo p,.competencias-pagina .corpo li{line-height:1.7;color:#45423C}
+.competencias-pagina .corpo ul{margin:0;padding-left:20px}
+.competencias-pagina .corpo li+li{margin-top:8px}
+.competencias-pagina .nota{font-size:.95rem;border-left:3px solid #B88B4F;padding-left:14px;color:#5B554D;margin:26px 0 0;line-height:1.65}
+.competencias-pagina footer{padding:30px 20px;text-align:center;background:#0B0B0B;color:#CCC7BE;font-size:.88rem}
+@media(max-width:720px){.competencias-pagina main{padding-top:36px}.competencias-pagina .corpo{grid-template-columns:1fr}.competencias-pagina .topo-inner{flex-direction:column;align-items:flex-start}.competencias-figura figcaption{font-size:.78rem}.competencias-link{width:100%;justify-content:center}}
